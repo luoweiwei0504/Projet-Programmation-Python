@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article>
+    <titre>Exemple d'article en français</titre>
+    <paragraphe>
+        Ceci est un exemple de texte en français pour tester votre fonction de tokenisation.
+        Le texte contient plusieurs phrases et des éléments de ponctuation, comme des virgules, des points d'exclamation et des points d'interrogation.
+    </paragraphe>
+    <paragraphe>
+        Dans cet exemple, nous utilisons des balises XML pour structurer le contenu.
+        Les balises &lt;article&gt;, &lt;titre&gt; et &lt;paragraphe&gt;    délimitent les différentes parties du texte.
+    </paragraphe>
+</article>
